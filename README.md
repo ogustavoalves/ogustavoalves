@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, Gustavo Alves here!!!</h1>
 </div>
-<div>
+<div align="center">
   <a href="https://github.com/ogustavoalves">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ogustavoalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavoalves&layout=compact&langs_count=7&theme=dracula"/>

@@ -2,6 +2,7 @@
   <h1>Hello, Gustavo Alves here!!!</h1>
 </div>
 <div align="center">
+  <h2>My GitHub stats</h2>
   <a href="https://github.com/ogustavoalves">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ogustavoalves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavoalves&layout=compact&langs_count=7&theme=highcontrast&hide_border=true"/>
@@ -17,8 +18,8 @@
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-alves-073640248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ##
+  <div><h2>My activity on the last 31 days</h2></div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ogustavoalves&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ogustavoalves&theme=high-contrast&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  

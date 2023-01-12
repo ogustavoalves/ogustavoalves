@@ -4,8 +4,9 @@
 <div align="center">
   <h2>My GitHub stats</h2>
   <a href="https://github.com/ogustavoalves">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=highcontrast&hide_border=true"/>
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ogustavoalves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/> -->
+   
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavoalves&layout=compact&langs_count=7&theme=highcontrast&hide_border=true"/> -->
 </div>
 <div style="display:inline_block" align="center"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

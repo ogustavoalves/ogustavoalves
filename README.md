@@ -19,8 +19,6 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gustavo-alves-073640248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <div><h2>My activity on the last 31 days</h2></div>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ogustavoalves&theme=high-contrast&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
  

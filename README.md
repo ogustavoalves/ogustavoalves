@@ -6,7 +6,6 @@
   
   * System Analysis and development student;
   * Currently earning JavaScript, TypeScript and React;
-  * System Analysis and development student
   
 </div>
 <div align="left">

@@ -9,7 +9,7 @@
   
 </div>
 <div align="left">
-  <h2>My GitHub stats</h2>
+  <h2>My GitHub Stats</h2>
   <a href="https://github.com/ogustavoalves">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ogustavoalves&show_icons=true&theme=github_dark_dimmed&include_all_commits=truee&count_private=true&hide_border=true"/>
    
@@ -19,7 +19,7 @@
  
   [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,CSS,JavaScript,TypeScript,React,MySQL,Figma,Sass,Python,Java&theme=dark)](https://devicons.dev.br/)
 
-  <h2 align="left">Connect with me</h2>
+  <h2 align="left">Connect With Me</h2>
 <div align="left"> 
   <a href="https://www.linkedin.com/in/gustavo-alves-073640248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 

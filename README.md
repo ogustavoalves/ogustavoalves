@@ -17,7 +17,7 @@
 </div>
  <h2>Skills</h2><br>
  
-  [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,CSS,JavaScript,TypeScript,React,MySQL,Figma,Sass,Python,Java&theme=dark)](https://devicons.dev.br/)
+  [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,CSS,Sass,JavaScript,TypeScript,React,Figma,MySQL,Python,Java&theme=dark)](https://devicons.dev.br/)
 
   <h2 align="left">Connect With Me</h2>
 <div align="left"> 

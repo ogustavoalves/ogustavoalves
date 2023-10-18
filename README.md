@@ -4,8 +4,8 @@
 </div>
 <div>
   
-  * System Analysis and development student;
-  * Currently earning JavaScript, TypeScript and React;
+  * System Analysis and Development student;
+  * Currently learning JavaScript, TypeScript and React;
   
 </div>
 <div align="left">

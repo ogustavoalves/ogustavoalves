@@ -5,7 +5,8 @@
 <div>
   
   * System Analysis and Development student;
-  * Currently learning JavaScript, TypeScript and React;
+  * Currently learning JavaScript, TypeScript, React and Data Analysis;
+    
   
 </div>
 <div>

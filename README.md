@@ -5,7 +5,7 @@
 <div>
   
   * System Analysis and Development student;
-  * Currently learning JavaScript, TypeScript, React and Data Analysis;
+  * Currently learning: JS, TS, React, Data Analysis and Linux;
     
   
 </div>
@@ -18,7 +18,7 @@
 </div>
  <h2>Skills</h2><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma,git,js,ts,nodejs,react,py,linux,java,firebase,mysql,express,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,html,css,sass,tailwind,bootstrap,figma,git,js,ts,java,py,nodejs,ubuntu,linux,firebase,mysql,express,vercel,vite,aws)](https://skillicons.dev)
  
 
 

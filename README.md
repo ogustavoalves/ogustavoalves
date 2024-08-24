@@ -17,8 +17,10 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavoalves&layout=compact&langs_count=7&theme=github_dark_dimmed&hide_border=true"/>
 </div>
  <h2>Skills</h2><br>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma,git,js,ts,nodejs,react,py,linux,java,firebase,mysql,express,aws)](https://skillicons.dev)
  
-  [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,CSS,Sass,JavaScript,TypeScript,React,Figma,MySQL,Python,Java&theme=dark)](https://devicons.dev.br/)
+
 
   <h2>Connect With Me</h2>
 <div> 

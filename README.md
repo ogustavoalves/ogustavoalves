@@ -3,10 +3,9 @@
   <h1>Welcome to my Github</h1>
 </div>
 <div>
-  
-  * System Analysis and Development student;
-  * Currently learning: JS, TS, React, Data Analysis and Linux;
-    
+
+  * Currently learning: TypeScript, React, React Native, Data Analysis and Linux;
+  * My hobbies are Reading, going to the Gym and listening to Music.
   
 </div>
 <div>
@@ -25,7 +24,6 @@
   <h2>Connect With Me</h2>
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-alves-073640248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ogustavo_alves/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=74829f&height=120&section=footer"/>
 
   

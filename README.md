@@ -9,7 +9,7 @@
   
 </div>
 
-<h2>Skills:</h2><br>
+<h2>Skills & Tools:</h2><br>
 
   [![My Skills](https://skillicons.dev/icons?i=react,html,css,sass,tailwind,bootstrap,figma,git,js,ts,java,py,nodejs,ubuntu,linux,vim,firebase,mysql,postgres,mongo,express,vercel,vite,aws)](https://skillicons.dev)
  

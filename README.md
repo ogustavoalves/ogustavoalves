@@ -4,7 +4,7 @@
 </div>
 <div>
 
-  * Currently learning: TypeScript, React, React Native, Data Analysis and Linux;
+  * Currently learning: Data Science, IA and Linux;
   * My hobbies are Reading, going to the Gym and listening to Music.
   
 </div>

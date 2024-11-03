@@ -4,14 +4,14 @@
 </div>
 <div>
 
-  * Currently learning: Data Science, IA and Linux;
+  * Currently learning: Python, Data Science, IA and Linux;
   * My hobbies are Reading, going to the Gym and listening to Music.
   
 </div>
 
 <h2>Skills & Tools:</h2><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=react,html,css,sass,tailwind,bootstrap,figma,git,js,ts,java,py,nodejs,ubuntu,linux,vim,firebase,mysql,postgres,mongo,express,vercel,vite,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,py,ubuntu,linux,vim,firebase,mysql,postgres,mongo,vercel,aws)](https://skillicons.dev)
  
 
 <div>

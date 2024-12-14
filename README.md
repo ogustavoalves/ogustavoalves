@@ -17,7 +17,7 @@
 <div>
   <h2>My GitHub Stats:</h2>
   <a href="https://github.com/ogustavoalves">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ogustavoalves&show_icons=true&theme=github_dark_dimmed&include_all_commits=false&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ogustavoalves&show_icons=true&theme=github_dark_dimmed&include_all_commits=false&count_private=false&hide_border=true"/>
    
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavoalves&layout=compact&langs_count=7&theme=github_dark_dimmed&hide_border=true"/>
 </div>

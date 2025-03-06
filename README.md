@@ -4,8 +4,8 @@
 </div>
 <div>
 
-  * Currently learning: Python, Data Science, IA and Linux;
-  * My hobbies are Reading, going to the Gym and listening to Music.
+  * Currently learning: Python, Data Science, Math (Statistics), Machine Learning, Gen IA and Linux;
+  * My hobbies are Reading, going to the Gym and listening to music.
   
 </div>
 

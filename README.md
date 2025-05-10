@@ -11,7 +11,7 @@
 
 <h2>Skills & Tools:</h2><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,py,ubuntu,linux,vim,firebase,mysql,postgres,mongo,vercel,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,bash,ubuntu,linux,docker,postman,nginx,vim,firebase,mysql,postgres,sqlite,mongo,vercel,aws,azure,js,ts,npm,nodejs,express,java,maven,spring,py,fastapi,anaconda,sklearn,flask,notion,obsidian,md,latex,regex,vscode,pycharm,eclipse,)](https://skillicons.dev)
  
 
 <div>
